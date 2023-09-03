@@ -36,4 +36,4 @@ The flag was then submitted as `DUCTF{cHd5cmVxAWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYW
 
 ## Conclusion
 
-While some might consider the use of grep for flag discovery to be controversial, I view it as a method of leveraging hacking skills to identify and exploit vulnerabilities—precisely the essence of CTF competitions.
+While some might consider the use of grep for flag discovery to be controversial, I view it as a method of leveraging hacking skills to identify and exploit vulnerabilities (sometimes in the design of the challenge itself) —precisely the essence of CTF competitions.
