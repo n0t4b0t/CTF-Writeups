@@ -12,7 +12,7 @@ I am not an expert in forensics, but I am well-versed in finding things using gr
 
 Initially, I used the `grep` command, setting the recursive flag `-r`, to search for the specific date and time as shown in the challenge description. As this did not return any results, I narrowed the search to just the date.
 
-![Step 1 Screenshot](https://raw.githubusercontent.com/n0t4b0t/CTF-Writeups/main/DUCTF-2023/Rogueful-Helper/Screenshots/1.png)
+![Step 1 Screenshot](https://raw.githubusercontent.com/n0t4b0t/CTF-Writeups/main/DUCTF-2023/Rogueful-Helper/Screenshots/expanded1.png)
 
 ### Step 2: Observing the date-time format
 
