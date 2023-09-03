@@ -2,10 +2,6 @@
 
 ![Challenge Description](https://raw.githubusercontent.com/n0t4b0t/CTF-Writeups/main/DUCTF-2023/Rogueful-Helper/Screenshots/challenge.PNG)
 
-## Introduction
-
-I am not an expert in forensics, but I am well-versed in finding things using grep and regular expressions. Typically, this involves complex patterns and piping, but this challenge was unexpectedly simple to solve using basic grep functionality.
-
 ## Approach
 
 ### Step 1: Initial Grep Search for Date and Time
@@ -33,7 +29,3 @@ Using the `strings` command on the binary file revealed the ICMP payload.
 ![Step 4 Screenshot](https://raw.githubusercontent.com/n0t4b0t/CTF-Writeups/main/DUCTF-2023/Rogueful-Helper/Screenshots/4.png)
 
 The flag was then submitted as `DUCTF{cHd5cmVxAWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWE=}`.
-
-## Conclusion
-
-While some might consider the use of grep for flag discovery to be controversial, I view it as a method of leveraging hacking skills to identify and exploit vulnerabilities (sometimes in the design of the challenge itself) and therefore very much in line with the spirit of CTF competitions.
