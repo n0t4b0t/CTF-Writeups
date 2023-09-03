@@ -32,7 +32,7 @@ Using the `strings` command on the binary file revealed the ICMP payload.
 
 ![Step 4 Screenshot](https://raw.githubusercontent.com/n0t4b0t/CTF-Writeups/main/DUCTF-2023/Rogueful-Helper/Screenshots/4.png)
 
-The flag was then submitted as `DUCTF{[cHd5cmVxAWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWE=]}`.
+The flag was then submitted as `DUCTF{cHd5cmVxAWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWE=}`.
 
 ## Conclusion
 
